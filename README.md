@@ -47,7 +47,7 @@ npm install sustainapi-sdk
 ```
 ## Contributing
 - Ensure changes to SDK methods are compatible with changes in the blockchain core, API, and contracts.
-- Sync shared dependencies from sustainapi-common.
+- Sync shared dependencies from [sustainapi-manager](https://github.com/Sustain-API/sustainapi-manager).
 
 ## Workflow
 - Each pull request will trigger CI tests for the SDK.
