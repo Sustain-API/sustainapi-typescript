@@ -24,11 +24,11 @@ SustainAPI blockchain, API, and smart contracts.
 1. Clone the repository:
 
 ```json
-git clone https://github.com/sustainapi/sustainapi-sdk.git
+git clone https://github.com/sustainapi/sustainapi-typescript.git
 ```
 
 ```
-cd sustainapi-sdk
+cd sustainapi-typescript
 ```
 
 - Install dependencies:
